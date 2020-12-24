@@ -1,0 +1,149 @@
+.register-window{
+	width: 40%;
+	margin-left: 30%;
+	height: 600px;
+	margin-top: 200px;
+	border-radius: 30px;
+	border: 1px solid black;
+	text-align: center;
+	font-size: 20pt;
+}
+.heading{
+	font-size: 24pt;
+	text-align: center;
+}
+.register-input{
+	margin-top: 30px;
+	font-size: 20pt;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.enter{
+	height: 400px;
+	margin-top: 200px;
+	border-radius: 30px;
+	border: 1px solid black;
+	text-align: center;
+	font-size: 20pt;
+	width: 40%;
+	margin-left: 30%;
+}
+.top-menu{
+	width: 100%;
+	display: inline-block;
+}
+.top-menu-button{
+	float: left;
+	border-right: 3px solid black;
+	font-size: 20pt;
+	margin-left: 10px;
+	padding-right: 10px;
+	cursor: pointer;
+}
+.name{
+	float: right;
+	font-size: 20pt;
+	margin-top: 3px;
+}
+.top-menu-hr{
+	float: none;
+	width: 100%;
+	margin-top: 50px;
+}
+.storage{
+	height: 600px;
+	margin-top: 200px;
+	border-radius: 30px;
+	border: 1px solid black;
+	text-align: center;
+	font-size: 20pt;
+	width: 70%;
+	margin-left: 15%;
+}
+.storage-hr{
+	width: 7%;
+	float: left;
+}
+.folder-1{
+	width: 90%;
+	float: left;
+	height: 200px;
+	text-align: left;
+}
+.storage-hr-2{
+	width: 12%;
+	float: left;
+}
+.folder-2{
+	width: 80%;
+	float: left;
+	height: 200px;
+	text-align: left;
+}
+.botton-menu{
+	width: 90%;
+	margin-left: 5%;
+	height: 100px;
+}
+.file{
+	float: none;
+	margin-left: 30px;
+}
+.folder{
+	margin-top: 0;
+}
+.bottom-input{
+	font-size: 18pt;
+}
+.profile{
+	height: 400px;
+	margin-top: 200px;
+	border-radius: 30px;
+	border: 1px solid black;
+	text-align: center;
+	font-size: 20pt;
+	width: 40%;
+	margin-left: 30%;
+}
+.profile-input{
+	margin-top: 30px;
+	font-size: 20pt;
+}
+.backline{
+	height: 400px;
+	margin-top: 200px;
+	border-radius: 30px;
+	border: 1px solid black;
+	text-align: center;	
+	font-size: 20pt;
+	width: 60%;
+	margin-left: 20%;	
+}
+.backline-input{
+	margin-top: 30px;
+	font-size: 20pt;	
+}
+.backline-button{
+	margin-top: 30px;
+	font-size: 20pt;
+}
+.file-box{
+	height: 700px;
+	margin-top: 100px;
+	border-radius: 30px;
+	border: 1px solid black;
+	text-align: center;	
+	font-size: 20pt;
+	width: 60%;
+	margin-left: 20%;
+}
+.file-image{
+	width: 80%;
+	height: 60%;
+}
+.file-button{
+	margin-top: 30px;
+	font-size: 20pt;	
+}
